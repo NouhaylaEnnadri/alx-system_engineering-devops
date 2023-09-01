@@ -1,0 +1,3 @@
+#!/bin/bash
+Directory 'my_first_directory' created in /tmp/
+mkdir -p /tmp/my_first_directory
